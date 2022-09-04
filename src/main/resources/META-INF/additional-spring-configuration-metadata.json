@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "storage.container.entities",
+      "type": "java.lang.String",
+      "description": "this is the azure container name for the project."
+  }
+] }
